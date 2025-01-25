@@ -50,7 +50,8 @@ Provide recommendations tailored to the candidate's profile.
 📝 Usage Instructions
 Clone the repository:
 
-git clone https://github.com/your-repo/resume-evaluation-system.git
+git clone [https://github.com/your-repo/resume-evaluation-system.git](https://github.com/wmagdum/GenAI-Projects)
+
 cd resume-evaluation-system
 Install the dependencies:
 
